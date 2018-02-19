@@ -1,0 +1,12 @@
+#js-playerPickElement, #js-newGameElement, #js-resultsTableElement{
+	padding-top: 40px;
+}
+#js-playerPick{
+	font-size:36px;
+	font-weight: bold;
+}
+#js-computerPick{
+	font-size:36px;
+	font-weight: bold;
+	color:grey;
+}
